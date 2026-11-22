@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS DRIVE",
+  "description": "Hyperrealistic first-person luxury-car cockpit driving simulator with Day and Rainy Night modes, mobile touch steering, AI city traffic, and complete Unity 6.3 LTS URP Android ARM64 (HONOR X9b 5G) C# architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
